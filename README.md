@@ -3,3 +3,5 @@
 pip install requirements.txt
 
 creat .env 
+
+run app.py
